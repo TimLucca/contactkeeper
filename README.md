@@ -11,4 +11,4 @@ To run the front and back: `npm run dev`
 
 To run only the back: `npm run server`
 
-To run only the fron: `npm run client`
+To run only the front: `npm run client`
